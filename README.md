@@ -53,8 +53,8 @@ set.add(2,3,2,6);
 set.add(10,3,10,6);
 set.add(2,7,10,7);
 //divide enclosed region into 4 cells of varying width and height
-set.add(7,3,7,6);
-set.add(3,5,9,5);
+set.add(8,3,5,6);
+set.add(3,5,10,5);
 
 //2) Compress and compact the coordinate set, resulting in a 5 by 5 grid with 4 cells of 1x1 width and height each
 //enclosed in a 7x7 space
